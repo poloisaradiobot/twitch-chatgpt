@@ -17,7 +17,7 @@
     "url": "https://github.com/pedrojlazevedo/twitch-chatgpt/issues"
   },
   "homepage": "https://github.com/pedrojlazevedo/twitch-chatgpt#readme",
-  "dependencies": { "package-a": "2.0.0" }
+  "dependencies": { "package-a": "2.0.0" 
     "cron": "^3.1.1",
     "ejs": "^3.1.9",
     "express": "^4.18.2",
